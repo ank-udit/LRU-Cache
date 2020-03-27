@@ -1,4 +1,3 @@
-// A C program to show implementation of LRU cache 
 #include <stdio.h> 
 #include <stdlib.h> 
 
